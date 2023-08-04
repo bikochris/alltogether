@@ -1,0 +1,144 @@
+.first-part{
+  background-color: #1f2937;
+  color:white;
+  display: flex;
+  justify-content: space-around;
+  height:50px;
+}
+.logo{
+  background-color: brown;
+  flex: 1;
+}
+
+.logo-links{
+  display: flex;
+  justify-content:space-around;
+  background-color: rgb(176, 188, 188);
+  flex: 2;
+}
+.second-part{
+  background-color: #1f2937;
+  color: white;
+  display: flex;
+  height: 200px;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  flex: 1;
+  
+}
+.website{
+  display: flex;
+  flex-direction: column;
+}
+.venant{
+ width:150px;
+ height: 150px;
+ background-color: rgb(237, 236, 242);
+ border: 2px;
+}
+.website-name{
+  font-weight:bold;
+  font-size: 48px;
+  width: 300px;
+}
+button{
+  background-color: #3882f6;
+  color: white;
+}
+.third-part{
+  text-align: center;
+  color: #000;
+  font-size: 36px;
+
+}
+.box{
+  height: 150px;
+  width: 150px;
+  border: 2px solid rgb(230, 233, 237);
+  border-radius: 20px 
+}
+.box1{
+display: flex;
+flex-direction: column;
+}
+.third-part-a{
+  display: flex;
+  justify-content:space-around;
+  margin-top: 10px;
+}
+.box1{
+  display: flex;
+  flex-direction: column;
+  flex-direction: column-reverse;
+  
+}
+.caption{
+  width: 150px;
+}
+.fourth-part{
+  background-color: #bdc2c8;
+  height: 200px;
+}
+.fourth-part{
+  display: flex;
+  flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ 
+
+}
+.body{
+  width: 300px;
+  height: 80px;
+  text-align: justify;
+
+}
+.fith-part{
+  background-color: #033078;
+  display: flex;
+  flex-direction: column;
+  color:white;
+  height: 80px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 150px;
+ margin-right: 150px;
+ padding-top: 20px;
+}
+.sign-up{
+  display: flex;
+  justify-content:space-around;   
+}
+.call{
+  margin-left: 128px;
+}
+.six{
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+}
+.person{
+  text-align: right;
+  margin-left: 160px;
+}
+
+.box12{
+  display: flex;
+  flex-direction: column;
+  flex-direction: column-reverse;
+  
+
+}
+img{
+  height: 100%;
+  width: 100%;
+  border-radius: 20%;
+  
+  
+}
+.image{
+  /* height: 150px; */
+  width: 150px;
+  display:inline-block;
+  background-color: #ffff;
+}
